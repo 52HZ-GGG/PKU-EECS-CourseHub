@@ -10,7 +10,7 @@ PKU EECS course materials hub – a centralized index for all my lecture notes, 
 | 智能硬件应用实验 | 五子棋人机对弈系统 | Python | [🔗 Gobang-Human-Machine-Game-System](https://github.com/52HZ-GGG/Gobang-Human-Machine-Game-System) |
 
 
-### 2026 春季学期
+### 2025 春季学期
 
 |  课程名称 | 主要内容 | 技术栈 | 仓库链接 |
 |  :------- | :------- | :----- | :------- |

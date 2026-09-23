@@ -24,5 +24,10 @@ PKU EECS course materials hub – a centralized index for all my lecture notes, 
 |  深度学习中的高效计算方法 | 课程笔记和作业 | Markdown&C++ | [🔗 Effiecient_Computing-_of_DNN_pku_2026summer](https://github.com/52HZ-GGG/Effiecient_Computing-_of_DNN_pku_2026summer) |
 
 
+### 2026 秋季学期
+|  课程名称 | 主要内容 |  主要语言 | 仓库链接 |
+|  :------- | :------- | :----- | :------- |
+|  机器学习在数据分析预测中的应用 | 课程笔记和课件 | Markdown | [🔗 machine-learning-for-predictive-data-analytics](https://github.com/52HZ-GGG/machine-learning-for-predictive-data-analytics) |
+
 ## 作者
 - GitHub: [52HZ-GGG](https://github.com/52HZ-GGG)
